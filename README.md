@@ -97,7 +97,7 @@ redix/
 
 - [x] Project structure
 - [x] Storage engine
-- [ ] Command parser
+- [X] Command parser
 - [ ] TCP server
 - [ ] Hash support (HSET/HGET)
 - [ ] List support (LPUSH/RPOP)
