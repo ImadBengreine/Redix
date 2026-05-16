@@ -96,7 +96,7 @@ redix/
 ## Roadmap
 
 - [x] Project structure
-- [ ] Storage engine
+- [x] Storage engine
 - [ ] Command parser
 - [ ] TCP server
 - [ ] Hash support (HSET/HGET)
